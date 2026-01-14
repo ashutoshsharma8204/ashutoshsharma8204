@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sharma</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=BCA+Student+%7C+Web+Developer;Aspiring+Full+Stack+Engineer;JavaScript+%7C+React+%7C+Node.js" />
-</h3>
+<h3 align="center">A Passionate Web Developer & BCA Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshsharma8204&label=Profile%20Views&color=00f7ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ashutoshsharma8204&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 **BCA Student** (India)
-* 💻 **Web Developer** with strong frontend fundamentals
-* 🌱 Currently learning **React, Node.js & Backend Development**
-* 🛠️ Love building **real-world projects**
-* 🎯 Goal: Become a **Full Stack Developer**
+* 🎓 BCA Student at **GLA University**
+* 💻 Frontend & Backend Web Developer
+* 🌱 Currently learning **Java, DSA & Advanced Backend**
+* 🚀 Interested in Full Stack Development
+* 📍 From **Tundla, India**
 
 ---
 
@@ -23,76 +21,76 @@
 
 ### 💻 Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge\&logo=c)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
+</p>
 
-### 🌐 Frontend
+### ⚙️ Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge\&logo=bootstrap)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
-### 🧩 Backend
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge\&logo=express)
+## 📂 Projects
 
-### 🗄️ Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github)
+* 🔌 **Internet Status Checker**
+* 💼 **Job Portal Website**
+* ✊✋✌️ **Stone Paper Scissors Game**
+* ❌⭕ **Tic Tac Toe Game**
+* 🎮 **Number Guessing Game**
+* 🛒 **E-commerce Frontend Website**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshsharma8204&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsharma8204&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshsharma8204&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsharma8204&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsharma8204&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Contribution Streak
 
-| Project                 | Description                            | Links         |
-| ----------------------- | -------------------------------------- | ------------- |
-| Number Guessing Game    | Interactive JS game with clean UI      | https://github.com/ashutoshsharma8204/Sigma-Prime-Batch.git  |
-| Internet Status Checker | Detects online/offline status using JS | https://github.com/ashutoshsharma8204/frontend-projects.git |
-| Job Portal Website      | Job listing & application web app      |https://github.com/ashutoshsharma8204/frontend-projects.git|
-| Stone Paper Scissors    | Classic JS game with UI                | https://github.com/ashutoshsharma8204/frontend-projects.git |
-| Tic Tac Toe             | Two-player JS game                     | https://github.com/ashutoshsharma8204/frontend-projects.git |
- 
-*(Links can be updated anytime)*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashutoshsharma8204&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutoshsharma8204/ashutoshsharma8204/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshsharma8204&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshsharma8204&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/ashutoshsharma8204"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashutosh-sharma-aa253731b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ashutoshsharma7694@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider following me!** 😄
+<p align="center">⭐ If you like my profile, consider giving a star to my repositories!</p>

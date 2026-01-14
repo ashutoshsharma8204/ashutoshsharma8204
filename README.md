@@ -67,13 +67,12 @@
 
 | Project                 | Description                            | Links         |
 | ----------------------- | -------------------------------------- | ------------- |
-| Number Guessing Game    | Interactive JS game with clean UI      | GitHub • Live |
-| Internet Status Checker | Detects online/offline status using JS | GitHub • Live |
-| Job Portal Website      | Job listing & application web app      | GitHub • Live |
-| Stone Paper Scissors    | Classic JS game with UI                | GitHub • Live |
-| Tic Tac Toe             | Two-player JS game                     | GitHub • Live |
-| Portfolio Website       | Personal responsive portfolio          | GitHub • Live |
-
+| Number Guessing Game    | Interactive JS game with clean UI      |   |
+| Internet Status Checker | Detects online/offline status using JS | https://github.com/ashutoshsharma8204/frontend-projects.git |
+| Job Portal Website      | Job listing & application web app      |https://github.com/ashutoshsharma8204/frontend-projects.git|
+| Stone Paper Scissors    | Classic JS game with UI                | https://github.com/ashutoshsharma8204/frontend-projects.git |
+| Tic Tac Toe             | Two-player JS game                     | https://github.com/ashutoshsharma8204/frontend-projects.git |
+ 
 *(Links can be updated anytime)*
 
 ---

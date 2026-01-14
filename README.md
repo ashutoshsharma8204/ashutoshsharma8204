@@ -67,7 +67,7 @@
 
 | Project                 | Description                            | Links         |
 | ----------------------- | -------------------------------------- | ------------- |
-| Number Guessing Game    | Interactive JS game with clean UI      |   |
+| Number Guessing Game    | Interactive JS game with clean UI      | https://github.com/ashutoshsharma8204/Sigma-Prime-Batch.git  |
 | Internet Status Checker | Detects online/offline status using JS | https://github.com/ashutoshsharma8204/frontend-projects.git |
 | Job Portal Website      | Job listing & application web app      |https://github.com/ashutoshsharma8204/frontend-projects.git|
 | Stone Paper Scissors    | Classic JS game with UI                | https://github.com/ashutoshsharma8204/frontend-projects.git |
